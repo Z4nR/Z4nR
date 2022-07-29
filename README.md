@@ -1,6 +1,7 @@
 ### Hi there 👋 I am Zulham you can call me ZAN maybe
 
 🌱 I’m currently learning about Front End Developer for create my inspirational design to some work
+<br>
 ⚡ Fun fact: My dream work as UI and UX but I learn code to determine my design soon.
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
