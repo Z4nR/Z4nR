@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on [OpenAPI Studio](https://github.com/OpenAPI-Studio)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Z4nRPortfolio](https://github.com/Z4nRPortfolio)
+- 👨‍💻 All of my projects are available at *Coming Soon
 
 - 💬 Ask me about **myself**
 
