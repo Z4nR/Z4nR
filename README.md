@@ -3,7 +3,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=z4nr" alt="z4nr" /></a> </p>
 
-- 🔭 I’m currently working on [WhatColors?](https://z4nr.github.io/what-colors/)
+- 🔭 I’m currently working on GeoAPI Project Testing
 
 - 🌱 I’m currently learning **MERN Stack**
 
