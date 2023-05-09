@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on GeoAPI Project Testing
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **MERN Stack, Laravel, Kotlin**
 
 - 👯 I’m looking to collaborate on [OpenAPI Studio](https://github.com/OpenAPI-Studio)
 
