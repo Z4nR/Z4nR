@@ -30,3 +30,8 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=z4nr&show_icons=true&locale=en&layout=compact" alt="z4nr" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=z4nr&" alt="z4nr" /></p>
+
+<br/>
+<br/>
+
+[![Zulham Ari](https://github-readme-activity-graph.vercel.app/graph?username=Z4nR&theme=view)](https://github.com/manyunyu7/github-readme-activity-graph)
