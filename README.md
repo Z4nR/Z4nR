@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN Stack, Laravel, Kotlin**
 
-- 👯 I’m looking to for jobs
+- 👯 I’m looking for jobs
 
 - 👨‍💻 All of my projects are available at *Coming Soon
 
