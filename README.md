@@ -17,12 +17,18 @@
 
 - ⚡ Fun fact **I am human :v**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/zulham-ari-nur-ridhwan-2a6873202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zulham ari nur ridhwan" height="30" width="40" /></a>
-<a href="https://www.facebook.com/zulham.ari.nr05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zulham ari nur ridhwan" height="30" width="40" /></a>
-<a href="https://instagram.com/_zul_zulham_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_zul_zulham_" height="30" width="40" /></a>
-</p>
+## Connect with me  
+<div align="center">
+<a href="https://www.linkedin.com/in/zulham-ari-nur-ridhwan" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/zulham.ari.nr05" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/_zul_zulham_" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div>  
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
