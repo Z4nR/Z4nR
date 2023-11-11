@@ -17,12 +17,6 @@
 
 - ⚡ Fun fact **I am human :v**
 
-## Connect with me  
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
-[![linkedin](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zulham-ari-nur-ridhwan)
-[![instagram](https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_zul_zulham_)
-[![facebook](https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/zulham.ari.nr05)
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
