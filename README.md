@@ -3,11 +3,11 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=z4nr&column=5" alt="z4nr" /></a> </p>
 
-- 🔭 I’m currently working on GeoAPI Project Testing
+- 🔭 I’m currently working on my personal project : [WhatGeo](https://github.com/Z4nR/WhatGeo) and [LandBorder](https://github.com/Z4nR/LandBorder)
 
-- 🌱 I’m currently learning **MERN Stack, Laravel, Kotlin**
+- 🌱 I’m currently learning **NestJS, TypeScript, Postgresql, MySQL**
 
-- 👯 I’m looking for jobs
+- 👯 I’m looking for learning Elixir partner
 
 - 👨‍💻 All of my projects are available at *Coming Soon
 
