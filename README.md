@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NestJS, TypeScript, Postgresql, MySQL**
 
-- 👯 I’m looking for learning Elixir partner
+- 👯 I’m looking for partner to learning Elixir 
 
 - 👨‍💻 All of my projects are available at *Coming Soon
 
