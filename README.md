@@ -30,7 +30,7 @@
 
 ### Library Component
 
-![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisy%20UI-daisyUI?style=for-the-badge&logo=daisyUI&logoColor=%235A0EF8&color=lightblue)
+![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisy%20UI-daisyUI?style=for-the-badge&logo=daisyUI&logoColor=white&color=%235A0EF8)
 
 </td><td valign="top" width="33%">
 
@@ -53,7 +53,12 @@
 
 ### Utils
 
-![git](https://img.shields.io/badge/git-git?style=for-the-badge&logo=git&logoColor=%23F05032&color=%23ffffff) ![NPM](https://img.shields.io/badge/npm-npm?style=for-the-badge&logo=npm&logoColor=%23CB3837&color=%23ffffff) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Nodemon](https://img.shields.io/badge/nodemon-Nodemon?style=for-the-badge&logo=nodemon&logoColor=%2376D04B&color=25c2a0)
+![git](https://img.shields.io/badge/git-GIT?style=for-the-badge&logo=git&logoColor=white&color=%23F05032
+) ![NPM](https://img.shields.io/badge/npm-NPM?style=for-the-badge&logo=npm&logoColor=white&color=%23CB3837
+) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Nodemon](https://img.shields.io/badge/nodemon-Nodemon?style=for-the-badge&logo=nodemon&logoColor=white&color=%2376D04B
+) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Leaflet](https://img.shields.io/badge/leaflet-Lealfet?style=for-the-badge&logo=leaflet&color=%23199900
+) ![React Query](https://img.shields.io/badge/react_query-React_Query?style=for-the-badge&logo=react%20query&logoColor=white&color=%23FF4154
+) ![React Hook Form](https://img.shields.io/badge/react%20hook%20form-React%20Hook%20Form?style=for-the-badge&logo=react%20hook%20form&logoColor=white&color=%23EC5990)
 
 </td><td valign="top" width="33%">
 
