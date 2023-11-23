@@ -88,10 +88,14 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
 </td></tr></table>
-</div>  
+</div>
+
+<h5 align="center">This tech stack I display is what I already use at least one time when I build some project.</h5>
 
 <br/>
 <br/>
+
+## Lifetime Code Stats
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=z4nr&show_icons=true&locale=en&layout=compact" alt="z4nr" /></p>
 
