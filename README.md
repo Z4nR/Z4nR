@@ -3,7 +3,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=z4nr&column=5" alt="z4nr" /></a> </p>
 
-- 🔭 I’m currently working on my personal project : [WhatGeo](https://github.com/Z4nR/WhatGeo) and [WhatBorder](https://github.com/Z4nR/WhatBorder)
+- 🔭 I’m currently working on my personal projects: [WhatGeo](https://github.com/Z4nR/WhatGeo) and [WhatBorder](https://github.com/Z4nR/WhatBorder)
 
 - 🌱 I’m currently learning **NestJS, TypeScript, Postgresql, MySQL**
 
@@ -34,7 +34,7 @@
 
 </td><td valign="top" width="33%">
 
-### Devops
+### DevOps
 
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
@@ -90,7 +90,7 @@
 </td></tr></table>
 </div>
 
-<h5 align="center">This tech stack I display is what I already use at least one time when I build some project.</h5>
+<h5 align="center">This tech stack is based on what I already used at least once time when I built some project.</h5>
 
 <br/>
 <br/>
