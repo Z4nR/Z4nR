@@ -57,7 +57,7 @@
 ![git](https://img.shields.io/badge/git-GIT?style=for-the-badge&logo=git&logoColor=white&color=%23F05032
 ) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Leaflet](https://img.shields.io/badge/leaflet-Lealfet?style=for-the-badge&logo=leaflet&color=%23199900
 ) ![React Query](https://img.shields.io/badge/react_query-React_Query?style=for-the-badge&logo=react%20query&logoColor=white&color=%23FF4154
-) ![React Hook Form](https://img.shields.io/badge/react%20hook%20form-React%20Hook%20Form?style=for-the-badge&logo=react%20hook%20form&logoColor=white&color=%23EC5990)
+) ![React Hook Form](https://img.shields.io/badge/react%20hook%20form-React%20Hook%20Form?style=for-the-badge&logo=react%20hook%20form&logoColor=white&color=%23EC5990) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-Framer_Motion?style=for-the-badge&logo=framer&color=%230055FF)
 
 </td><td valign="top" width="33%">
 
