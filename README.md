@@ -46,7 +46,7 @@
 
 ### Database & ORM
 
-![PlanetScale](https://img.shields.io/badge/PlanetScale-PlanetScale?style=for-the-badge&logo=planetscale&logoColor=%23000000&color=%23ffffff) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Mongoose](https://img.shields.io/badge/mongoose-Mongoose?style=for-the-badge&logo=mongoose&logoColor=white&color=%23880000
+![PlanetScale](https://img.shields.io/badge/PlanetScale-PlanetScale?style=for-the-badge&logo=planetscale&logoColor=%23000000&color=%23ffffff) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Mongoose](https://img.shields.io/badge/mongoose-Mongoose?style=for-the-badge&logo=mongoose&logoColor=white&color=%23880000
 ) ![Prisma](https://img.shields.io/badge/prisma-Prisma?style=for-the-badge&logo=prisma&color=%232D3748
 )
 
