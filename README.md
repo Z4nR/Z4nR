@@ -104,4 +104,4 @@
 <br/>
 <br/>
 
-[![Zulham Ari](https://github-readme-activity-graph.vercel.app/graph?username=Z4nR&theme=view)](https://github.com/manyunyu7/github-readme-activity-graph)
+[![Zulham Ari](https://github-readme-activity-graph.vercel.app/graph?username=Z4nR&theme=view)](https://github.com/Z4nR/github-readme-activity-graph)
