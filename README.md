@@ -3,7 +3,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=z4nr&column=5" alt="z4nr" /></a> </p>
 
-- 🔭 I’m currently working on my personal projects: [WhatGeo](https://github.com/Z4nR/WhatGeo) and [WhatBorder](https://github.com/Z4nR/WhatBorder)
+- 🔭 I’m currently working on my personal projects: [WhatBorder](https://github.com/Z4nR/WhatBorder)
 
 - 🌱 I’m currently learning **NestJS, TypeScript, Postgresql, MySQL**
 
