@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on my personal projects: [WhatBorder](https://github.com/Z4nR/WhatBorder)
 
-- 🌱 I’m currently learning **NestJS, TypeScript, Postgresql, MySQL**
+- 🌱 I’m currently learning **NestJS, TypeScript, Postgresql, MySQL, Ant Design**
 
 - 👯 I’m looking for partner to learning ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white) 
 
