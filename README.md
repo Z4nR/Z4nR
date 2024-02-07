@@ -98,6 +98,7 @@
 ## Lifetime Code Stats
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=z4nr&show_icons=true&locale=en&layout=compact" alt="z4nr" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=z4nr&card_width=320&layout=compact&title_color=8B64FF&range=last_7_days&theme=dracula" alt="rebornian48's wakatime stats"/></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=z4nr&" alt="z4nr" /></p>
 
@@ -105,3 +106,4 @@
 <br/>
 
 [![Zulham Ari](https://github-readme-activity-graph.vercel.app/graph?username=Z4nR&theme=view)](https://github.com/Z4nR/github-readme-activity-graph)
+
