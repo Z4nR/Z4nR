@@ -100,7 +100,7 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=z4nr&show_icons=true&locale=en&layout=compact" alt="z4nr top langs" /></p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=z4nr&layout=compact&range=last_7_days" alt="z4nr's wakatime stats"/></p>
 
-<p align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Z4nR&mode=daily" alt="GitHub Streak" /></a></p>
+<p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=z4nr" alt=" z4nrGitHub Streak" /></a></p>
 
-[![Zulham Ari](https://github-readme-activity-graph.vercel.app/graph?username=Z4nR&theme=view)](https://github.com/Z4nR/github-readme-activity-graph)
+[![Zulham Ari](https://github-readme-activity-graph.vercel.app/graph?username=z4nr&theme=view)]
 
