@@ -102,5 +102,5 @@
 
 <p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=z4nr" alt=" z4nrGitHub Streak" /></a></p>
 
-[![Zulham Ari](https://github-readme-activity-graph.vercel.app/graph?username=z4nr&theme=view)]
+![Zulham Ari](https://github-readme-activity-graph.vercel.app/graph?username=z4nr&theme=view)
 
