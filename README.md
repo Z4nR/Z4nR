@@ -97,9 +97,10 @@
 
 ## Lifetime Code Stats
 
+<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=z4nr&show_icons=true&locale=en&layout=compact&langs_count=10&theme=algolia&bg_color=0D1117" alt="z4nr top langs" /></a></p>
+
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=z4nr&rank_icon=percentile&show_icons=true&theme=algolia&bg_color=0D1117&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="z4nr github stat" /></a></p>
 
-<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=z4nr&show_icons=true&locale=en&layout=compact&langs_count=10&theme=algolia&bg_color=0D1117" alt="z4nr top langs" /></a></p>
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=z4nr&layout=compact&range=last_7_days&theme=algolia&bg_color=0D1117" alt="z4nr wakatime stats"/></a></p>
 
 <p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=z4nr&theme=algolia&background=0D1117" alt="z4nr github streak" /></a></p>
