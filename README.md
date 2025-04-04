@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zulham Ari Nur aka ZAN</h1>
-<h3 align="center">A passionate Fullstack Developer and UI/UX enthusiast from Indonesia</h3>
+<h3 align="center">A passionate Backend Developer and UI/UX enthusiast from Indonesia</h3>
 
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=z4nr&column=5&no-bg=true&margin-w=15&margin-h=15&theme=algolia" alt="z4nr" /></a></p>
 
